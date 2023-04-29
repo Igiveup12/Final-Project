@@ -981,12 +981,12 @@ img {
 	padding: 5%;
 }
 
-table {
+.table-student {
 	width: 100%;
 	text-align: center;
 	color: #E76F51;
 }
-table, th, td {
+.table-student, .t-studenth, .td-student {
  	border: 2px solid; 
 	padding: 10px;
 }
